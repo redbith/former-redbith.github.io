@@ -1,4 +1,4 @@
-# [redbith.github.io](https://redbith.github.io)
+# [FORMER PAGE OF redbith.github.io](https://redbith.github.io)
 An aggressive, minimalist, and hyper-realistic web terminal simulator acting as a personal command-center hub, landing page, and developer portfolio. Built from scratch to mimic a low-level Linux runtime environment inside a modern browser container.
 
 ## Preview
